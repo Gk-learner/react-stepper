@@ -10,6 +10,7 @@ const steps = [
 function App() {
     return (
         <div>
+             <h1> Stepper</h1>
             <Stepper steps={steps}></Stepper>
         </div>
     );
