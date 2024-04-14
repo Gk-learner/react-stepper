@@ -1,7 +1,7 @@
 {
     "homepage": "https://Gk-learner.github.io/my-stepper",
     "name": "my-stepper",
-    "private": true,
+    "private": false,
     "version": "0.0.0",
     "type": "module",
     "scripts": {
